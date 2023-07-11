@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Under Construction</title>
+  <style>
+    body {
+      text-align: center;
+      background-color: #f1f1f1;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      color: #555555;
+      margin-top: 150px;
+    }
+
+    p {
+      color: #777777;
+      margin-top: 20px;
+    }
+
+    .construction-image {
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Under Construction</h1>
+  <p>We're currently working on main y0sh.xyz</p>
+</body>
+</html>
